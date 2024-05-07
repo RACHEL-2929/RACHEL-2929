@@ -1,5 +1,5 @@
 # 🎈안녕하세요🎈
-**이름: RACHEL-2929**
+**이름: 최소연**
 ---
 #### 🎁노션
 https://www.notion.so/ohgiraffers/1152b413fba84c08a0e3271b6084e05b

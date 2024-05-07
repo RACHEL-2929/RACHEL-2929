@@ -12,5 +12,5 @@ STACKS
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 ---
 <p align="center">
- <img src = "https://image.fmkorea.com/files/attach/new3/20230128/486616/3794897188/5441149598/e5c0be206d1d5fec4cc085fdcaddcb54.png">
+ <img src = "https://image.fmkorea.com/files/attach/new3/20230128/486616/3794897188/5441149598/e5c0be206d1d5fec4cc085fdcaddcb54.png" width="300" height="300">
 </p>
